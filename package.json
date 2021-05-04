@@ -11,7 +11,7 @@
   "version": "4.1.2",
   "dependencies": {
     "attila": "github:zutrinken/attila#1.13.0",
-    "bleak": "github:zutrinken/bleak#1.4.0",
+    "bleak": "git+https://github.com/milanmenezes/bleak",
     "casper": "github:tryghost/Casper#3.0.4",
     "ghost": "^4.3.3",
     "ghost-storage-adapter-s3": "^2.8.0",
